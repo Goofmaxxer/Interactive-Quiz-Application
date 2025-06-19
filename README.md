@@ -42,6 +42,7 @@ It is built entirely using **HTML**, **CSS**, and **JavaScript**, making it ligh
 
 ## 📷 Screenshots
 
+![Image](https://github.com/user-attachments/assets/a822639f-5548-435d-9fd5-cefe7d7dbee8)
 
 ---
 
