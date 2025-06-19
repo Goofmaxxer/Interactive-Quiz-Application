@@ -46,6 +46,9 @@ It is built entirely using **HTML**, **CSS**, and **JavaScript**, making it ligh
 
 ---
 
+## Live Link
+- https://fancy-pavlova-03e190.netlify.app/
+
 ## 🚀 Technologies Used
 
 - **HTML5**  
