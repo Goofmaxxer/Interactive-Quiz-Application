@@ -1,27 +1,64 @@
-INTERACTIVE-QUIZ-APPLICATION
+# 🎯 INTERACTIVE QUIZ APPLICATION
 
-COMPANY: CODTECH IT SOLUTIONS
+> **Intern Project at CodTech IT Solutions**
 
-NAME: MUZAMMIL AHMED
+![GitHub top language](https://img.shields.io/github/languages/top/yourusername/quiz-app?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/quiz-app)
+![Made with HTML](https://img.shields.io/badge/HTML-✔️-orange)
+![Made with CSS](https://img.shields.io/badge/CSS-✔️-blue)
+![Made with JavaScript](https://img.shields.io/badge/JavaScript-✔️-yellow)
 
-INTERN ID: COD08111
+---
 
-DOMAIN: FRONT END DEVELOPMENT
+## 🏢 Company Details
 
-DURATION: 4 WEEEKS
+- **Company**: CodTech IT Solutions  
+- **Intern Name**: Muzammil Ahmed  
+- **Intern ID**: COD08111  
+- **Domain**: Front-End Development  
+- **Mentor**: Neela Santosh  
+- **Duration**: 4 Weeks  
 
-MENTOR: NEELA SANTOSH
+---
 
-📘 Interactive Quiz Application
-A sleek and responsive web-based quiz platform designed to deliver an engaging experience for users. This application features real-time question rendering, instant feedback, and dynamic score tracking. Built with HTML, CSS, and JavaScript, the app supports multiple-choice questions, progress indicators, and smooth transitions. Ideal for educational platforms, coding challenges, or personal learning tools.
+## 📘 About the Project
 
-🔧 Key Features:
-Real-time question display with multiple-choice options
+The **Interactive Quiz Application** is a sleek, responsive, and web-based quiz platform developed as part of a 4-week internship. The app is designed to engage users with real-time question rendering, dynamic score tracking, and immediate feedback.
 
-Live score calculation and result display
+It is built entirely using **HTML**, **CSS**, and **JavaScript**, making it lightweight and easy to deploy on any static hosting platform.
 
-Clean and responsive UI/UX
+---
 
-User-friendly navigation
+## 🔧 Key Features
 
-Lightweight and fully client-side
+- ✅ Real-time question rendering with multiple-choice options  
+- ✅ Live score tracking and feedback after each question  
+- ✅ Clean, responsive UI/UX with mobile support  
+- ✅ Smooth transitions between questions  
+- ✅ Simple and intuitive navigation  
+- ✅ 100% Client-side — no backend or database required
+
+---
+
+## 📷 Screenshots
+
+
+---
+
+## 🚀 Technologies Used
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+- **VS Code**  
+- **Git & GitHub**
+
+---
+
+## 🌐 How to Run Locally
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/quiz-app.git
+
+# Open index.html in your browser
