@@ -13,8 +13,8 @@
 ## 🏢 Company Details
 
 - **Company**: CodTech IT Solutions  
-- **Intern Name**: Muzammil Ahmed  
-- **Intern ID**: COD08111  
+- **Intern Name**: Sri Krishna V R
+- **Intern ID**: CT04DN1421
 - **Domain**: Front-End Development  
 - **Mentor**: Neela Santosh  
 - **Duration**: 4 Weeks  
